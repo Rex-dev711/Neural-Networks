@@ -14,6 +14,9 @@ This repository is a collection of interesting and influential research papers o
 
 3. Paper#3: [**"Handwritten Digit Recognition with a Back-Propagation Network"** by LeCun, Boser, Denker, Hendwerson, Howard, Hubbard, Jackel] is an early network (1989) based on fully-connected (MLP) using back-propagation algorithm and was used in commercial Digital Signal Processor Board. It's also called LeNet-1, and later became the groundwork for CNNs!
 
+4. Paper#4: [**"Gradient-Based Learning Applied to Document Recognition"** by LeCun, Bottou, Bengio, Haffner] is the groundbreaking 1998 paper that demonstrated the effectiveness of deep learning for image recognition tasks using CNN architecture to achieve high accuracy with minimal pre-processing, which was a major step forward compared to earlier methods. The model is also called LeNet-5, and it has guided many modern CNN models for various tasks!
+
+
 ## Contributions
 
 Feel free to contribute by:
